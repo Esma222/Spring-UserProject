@@ -1,4 +1,4 @@
-# Spring-UserProject
+# SPRING-UserProject
 Spring User Project
 If you want to write your own, here's what you need to do in the spring initializr:
 project: Maven
